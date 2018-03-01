@@ -19,6 +19,5 @@ Command line tool for plotting two of the most popular fractals: Mandelbrot set 
     `Julia`
     
 ## Outputs
-
-   ![image]
+  ![image](https://user-images.githubusercontent.com/34955038/36860409-2b4624a2-1da7-11e8-9bb1-6f66f438d313.JPG)
     
